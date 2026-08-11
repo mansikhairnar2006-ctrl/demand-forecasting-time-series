@@ -17,3 +17,6 @@ __pycache__/
 
 # Environment variables
 .env
+
+# Raw datasets
+data/raw/*.csv
